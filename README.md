@@ -326,3 +326,10 @@ Technical Program Manager
 [Assemble Systems](http://assemblesystems.com/)  
 [Website](http://www.AnjuanSimmons.com) | [My Talks] (http://www.anjuansimmons.com/my-talks) | [Book Me] (http://www.anjuansimmons.com/book-me) | [Contact Me] (http://www.anjuansimmons.com/contact)    
 [Twitter](https://twitter.com/anjuan) | [GitHub](https://github.com/anjuan) | [LinkedIn](http://linkedin.com/in/anjuan)
+
+Vidal Graupera   
+Engineering Manager at LinkedIn   
+On a mission to help and inspire engineering leaders everywhere. 
+Author & podcaster on engineering management topics   
+[Website](http://www.managersclub.com) |
+[Twitter](https://twitter.com/vgraupera) | [GitHub](https://github.com/vgraupera) | [LinkedIn](http://linkedin.com/in/vidalgraupera)
